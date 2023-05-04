@@ -1,6 +1,6 @@
 import React from 'react'
-import './contact.css'
-const contact = () => {
+import './footer.css'
+const footer = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const contact = () => {
   )
 }
 
-export default contact
+export default footer
