@@ -17,13 +17,13 @@ const about = () => {
         </div>
         <div className="about_content">
           <div className="about_cards">
-            <article className='about_content'>
+            <article className='about_card'>
               <HiOutlineCode className='about_icon' />
               <h5>Developer</h5>
               <small>Problems solving using DSA</small>
 
             </article>
-            <article className='about_content'>
+            <article className='about_card'>
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
               <small>5+ projects</small>
