@@ -5,7 +5,7 @@ import CTA from './CTA'
 import HeaderSocial from './HeaderSocials'
 const header = () => {
   return (
-    <header >
+    <header id="home">
       <div className="cotainer header_container">
         <h4> Hello, I'm</h4>
         <h1>Hardik Bhasin</h1>
