@@ -20,6 +20,7 @@
     --container-width-sm: 90%;
     --transition: all 400ms ease;
     --color-about-image : rgb(244, 73, 73);
+    
 }
 html{
     scroll-behavior: smooth;
