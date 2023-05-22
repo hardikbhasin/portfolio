@@ -81,10 +81,10 @@ const Qualifications = () => {
             <div class="qualification__data">
               <div></div>
 
-              {/* <div class="qualification__time">
-                <span class="qualification__rounder"></span>
+              <div class="qualification__time">
+                {/* <span class="qualification__rounder"></span> */}
 
-              </div> */}
+              </div>
 
 
             </div>
