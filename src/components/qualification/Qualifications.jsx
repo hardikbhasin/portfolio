@@ -3,7 +3,9 @@ import './qualifications.css';
 const Qualifications = () => {
   return (
     <section id="qualifications">
-     </section>
+      
+
+    </section>
   )
 }
 
