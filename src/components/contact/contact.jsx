@@ -11,7 +11,7 @@ const Contact = () => {
       <div className="container contact_container">
         <div className="contact_options">
           <article className="contact_option">
-            <MdOutlineEmail />
+            <MdOutlineEmail className='contact_option-icons'/>
             <h4>Email</h4>
             <h5>hardikbhasin398@gmail.com</h5>
             <a href="mailto:hardikbhasin398@gmail.com" target='_blank' rel='noreferrer'>Send a message</a>
@@ -19,7 +19,7 @@ const Contact = () => {
           </article>
 
           <article className="contact_option">
-            <BsWhatsapp />
+            <BsWhatsapp className='contact_option-icons'/>
             <h4>WhatsApp</h4>
             <h5>+91-9140842553</h5>
             <a href="https://api.whatsapp.com/send?phone=+919140842553" target='_blank' rel='noreferrer'>Send a message</a>
@@ -27,7 +27,7 @@ const Contact = () => {
           </article>
 
           <article className="contact_option">
-            <BsLinkedin />
+            <BsLinkedin className='contact_option-icons'/>
             <h4>Linkedin</h4>
             {/* <h5>Hardik Bhasin</h5> */}
             <a href="https://www.linkedin.com/in/hardik-bhasin/" target='_blank' rel='noreferrer'>Send a message</a>
