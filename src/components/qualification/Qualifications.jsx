@@ -3,7 +3,7 @@ import './qualifications.css';
 import {FaUserGraduate} from 'react-icons/fa';
 const Qualifications = () => {
   return (
-    <section class="qualification section">
+    <section id = "qualification" class="qualification section">
 
       <h5>My personal journey</h5>
       <h2 >Qualification</h2>
