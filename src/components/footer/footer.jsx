@@ -18,10 +18,10 @@ const footer = () => {
         <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a href='https://www.linkedin.com/in/hardik-bhasin/'><BsLinkedin /></a>
-        <a href='https://github.com/hardikbhasin'><BsGithub/></a>
-        <a href='https://twitter.com/hardik_bhasin_'><BsTwitter/></a>
-        <a href='https://leetcode.com/hardikbhasin/'><SiLeetcode/></a>
+        <a href='https://www.linkedin.com/in/hardik-bhasin/' target='_blank' rel="noreferrer"><BsLinkedin /></a>
+        <a href='https://github.com/hardikbhasin' target='_blank' rel="noreferrer"><BsGithub/></a>
+        <a href='https://twitter.com/hardik_bhasin_' target='_blank' rel="noreferrer"><BsTwitter/></a>
+        <a href='https://leetcode.com/hardikbhasin/' target='_blank' rel="noreferrer"><SiLeetcode/></a>
       </div>
 
       <div className="footer_copyright">
