@@ -9,9 +9,9 @@ import {SiLeetcode} from 'react-icons/si'
 const footer = () => {
   return (
     <footer>
-      <a href='#' className='footer_logo'>Hardik Bhasin</a>
+      <a href='#about' className='footer_logo'>Hardik Bhasin</a>
       <ul className='permalinks'>
-        <li><a href='#'>Home</a></li>
+        <li><a href='#home'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#portfolio'>Projects</a></li>
         <li><a href='#qualification'>Qualifications</a></li>
