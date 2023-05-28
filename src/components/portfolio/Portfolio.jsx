@@ -14,7 +14,7 @@ const Portfolio = () => {
       description:
         'A quiz web-app in 22 sub-categories with three levels- easy/medium and Hard questions. Build with the help of react hooks and states.',
       technologies: 'React | API | Javascript',
-     
+      link: 'https://quiz-app-seven-amber.vercel.app/',
       github: 'https://github.com/hardikbhasin/quiz-app',
     },
     {
