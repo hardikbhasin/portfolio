@@ -2,11 +2,22 @@ import React from 'react';
 import IMG1 from '../../assets/IMG1.png';
 import IMG2 from '../../assets/IMG2.png';
 import IMG3 from '../../assets/IMG3.png';
+import IMG4 from '../../assets/IMG4.png';
 
 import './portfolio.css';
 
 const Portfolio = () => {
   const soloProjects = [
+    {
+
+      id: 4,
+      title: 'Fitness exercises app',
+      img: IMG4,
+      description: 'Browse through a variety of hundreds of exercises for the whole body shows, correct way of doing the exercises with animated gif and related youtube videos',
+      technologies: 'React | RapidAPI | JavaScript',
+      link: '',
+      github: 'https://github.com/hardikbhasin/fitness-exercises-app',
+    },
     {
       id: 1,
       title: 'Quiz-App',
@@ -36,9 +47,10 @@ const Portfolio = () => {
       link: 'https://hardikbhasin.github.io/randomQuote/',
       github: 'https://github.com/hardikbhasin/randomQuote',
     },
-    
-    
-    
+
+
+
+
   ];
 
   return (
