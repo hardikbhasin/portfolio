@@ -30,7 +30,7 @@ const about = () => {
 
             </article>
           </div>
-          <p>Pre-final year student pursuing B.tech in IT domain, enthusiastic about programming and enjoys solving problems. Currenlty my focus is on enhancing my proficiency in data strcutures and algorithms and learning web technologies. I am thrilled about the prospect of utilizing my abilities to tackle real-world issues and pursuing a profession in software developement.</p>
+          <p>Final year student pursuing B.tech in IT domain from USICT, New Delhi. Enthusiastic about programming and enjoys solving problems. Proficient in Data Structures and Algorithms (DSA). Enthusiastic about creating dynamic and engaging user experiences through frontend web development using React JS. Actively seeking opportunities to contribute my expertise...</p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

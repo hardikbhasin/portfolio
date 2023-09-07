@@ -11,7 +11,7 @@ const Portfolio = () => {
     {
 
       id: 4,
-      title: 'Fitness exercises app',
+      title: 'FitMentor',
       img: IMG4,
       description: 'Browse through a variety of hundreds of exercises for the whole body shows, correct way of doing the exercises with animated gif and related youtube videos',
       technologies: 'React | RapidAPI | JavaScript',
@@ -20,20 +20,20 @@ const Portfolio = () => {
     },
     {
       id: 1,
-      title: 'Quiz-App',
+      title: 'QuizHub',
       img: IMG1,
       description:
-        'A quiz web-app in 22 sub-categories with three levels- easy/medium and Hard questions. Build with the help of react hooks and states.',
+        'A QuizHub is a web-app built in 22 sub-categories with three levels- easy/medium and Hard questions. Build with the help of react hooks and states.',
       technologies: 'React | API | Javascript',
       link: 'https://quiz-app-seven-amber.vercel.app/',
       github: 'https://github.com/hardikbhasin/quiz-app',
     },
     {
       id: 2,
-      title: 'To-Do app',
+      title: 'Taskify',
       img: IMG2,
       description:
-        'A To-Do web app built using basic React & React hooks, to create a to-do list. The edit option is available with each to-do to update, along with a option to remove from the list.',
+        'Taskify built using React & React hooks, to create a to-do list. The edit option is available with each to-do to update, along with a option to remove from the list.',
       technologies: 'React | Javascript',
       link: 'https://to-do-app-hardikbhasin.vercel.app/',
       github: 'https://github.com/hardikbhasin/todo-app',
